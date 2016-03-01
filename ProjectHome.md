@@ -1,0 +1,1 @@
+Parses a string of HTML into a Document Object Mapping (DOM) which allows navigating through the elements of the page and retrieving the text nodes, attributes and children of each element. It is incredibly fast and requires no libraries, uses no regular expressions and conforms to the HTML spec.
